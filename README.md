@@ -27,6 +27,12 @@ PWAs can also be installed directly from the browser with a simple prompt, makin
 How to build a PWA with caching and offline functionality. How webpack.config outputs a dist folder with a new index.html that was built with the css and js of the app.
 
 
+## Screenshots
+
+![alt text](https://github.com/AnthonyBonanno/Text-Editor--PWA-/blob/main/public/images/image1.PNG)
+
+![alt text](https://github.com/AnthonyBonanno/Text-Editor--PWA-/blob/main/public/images/image2.PNG)
+
 ## Link to Deployed Application
 
 https://text-editor-pwa-niyh.onrender.com
